@@ -1,0 +1,6 @@
+battery.voltage: 13.12
+ups.load: 19.2
+ups.status: OL
+ups.model: Victron Phoenix
+output.voltage: 120.1
+battery.charge: 100

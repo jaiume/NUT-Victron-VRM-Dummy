@@ -1,0 +1,9 @@
+[admin]
+		password = password
+		actions = SET
+		instcmds = ALL
+
+[upsmon]
+       password = supersecretpassword
+       upsmon master
+	   
